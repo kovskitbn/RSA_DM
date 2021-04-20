@@ -1,5 +1,5 @@
-alphabet = 'abcdefghijklmnopqrstuvwxyz'
-liste_lettre = list(alphabet)
+liste_lettre = 'abcdefghijklmnopqrstuvwxyz'
+liste_lettre = list(liste_lettre)
 a,b = (3,4)
 u = 0 
 while (a*u)%26!=1:
